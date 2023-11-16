@@ -1,0 +1,9 @@
+
+.cityImage{
+  height: auto;
+  width: 100%;
+}
+.image-wrapper{
+  overflow: hidden;
+  max-width: 600px;
+}
